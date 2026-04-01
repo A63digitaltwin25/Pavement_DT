@@ -1,4 +1,4 @@
-This project has been done for ATLANDES by the student team:
+This project has been done for ATLANDES (https://www.a63-atlandes.fr/fr/) by the student team:
 Valentin Kovács,
 Maria Eugenia Hernández Larez,  
 William Guauque
